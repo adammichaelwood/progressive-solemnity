@@ -1,19 +1,22 @@
 ---
 layout: page
-title: About Pixyll
+title: About
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+This is the liturgy blog of Adam Michael Wood.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+Adam also blogs in too many other places:
 
-Thanks to the following:
+ - [Adam Michael Wood](http://adammichaelwood.github.io)
+ - [Music for Sunday](http://musicforsunday.com)
+ - [Otherwise Orthodox](http://otherwiseorthodox.org)
+ - [Liberty.me](http://adam.liberty.me)
+ - [Chant Cafe](http://chantcafe.com) (Contributor)
+ - [One Peter Five](http://onepeterfive.com) (Contributor)
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Solarized](http://ethanschoonover.com/solarized)
+You can also find Adam other places:
+
+ - [Facebook](https://www.facebook.com/wood.adam.michael)
+ - [Musica Sacra Forum](http://forum.musicasacra.com/forum/) (Username: Adam Wood)
+
