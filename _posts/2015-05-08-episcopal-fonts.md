@@ -24,7 +24,7 @@ The Hymnal 1982 didn't use Sabon/Garamond.
 
 That's [Baskerville](http://en.wikipedia.org/wiki/Baskerville)!
 
-![Baskerville](baskerville.gif)
+![Baskerville](/images/baskerville.gif)
 
 I have a theory about this. Okay, not a theory exactly --- a handful of possible explanations.
 
@@ -34,9 +34,9 @@ I have a theory about this. Okay, not a theory exactly --- a handful of possible
 
  - On a related note, Sabon/Garamond is both more modern and (because of its heritage) more traditional than the very (to my eyes) Protestant/Puritan feel of the previous edition. (Below is the 1928 original and the 1940s reprint.)
 
-![1928 BCP Title Page](bcp-1928-title.gif)
+![1928 BCP Title Page](/images/bcp-1928-title.gif)
 
-![1928 BCP Reprint Title Page](bcp-1928-1945-title.jpg)
+![1928 BCP Reprint Title Page](/images/bcp-1928-1945-title.jpg)
 
  - While the 1979 Book of Common Prayer was something of a leap forward for liturgical practice, and a definite lean towards Catholic practice, the 1982 was an essentially Protestant hymnal. However much we have changed the shape of the Sunday service, the Episcopal Church's hymn tradition is, and will always be, Protestant. (Partly because there isn't really much of a Catholic tradition of congregational hymnody.) For this reason, a font that stays within the realm of late 19th-century book making probably felt (even if only on a subconscious level) most appropriate.
 
