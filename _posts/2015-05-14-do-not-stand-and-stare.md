@@ -4,7 +4,7 @@ title: Do Not Stand and Stare in Wonder
 summary: Hymn for the Ascension
 ---
 
-![Do Not Stand and Stare in Wonder](/images/do-not-stand-and-satre.png]
+![Do Not Stand and Stare in Wonder](/images/do-not-stand-and-satre.png)
 
 
 > Do not stand and stare in wonder unto the sky above.  
