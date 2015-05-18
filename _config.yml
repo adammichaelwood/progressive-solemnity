@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "http://progressivesolemnity.org/"
 
 # Google analytics
-google_analytics:
+google_analytics: "UA-46189469-3"
 
 # Optional features
 animated:           false
