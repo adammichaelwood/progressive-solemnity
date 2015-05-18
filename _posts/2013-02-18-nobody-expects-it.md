@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: short
 title: Nobody expects it
 summary: I am hilarious.
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: essay
 title: Magazine-based Liturgy Planning
 summary: What happens when you plan liturgy from a magazine?
 ---

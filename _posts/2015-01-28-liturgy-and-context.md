@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: essay
 title: Liturgy and the Need for Context
 summary: "Without a historically authentic congregation, historically authentic liturgy is a fiction."
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: short
 title: Effective Evangelization Strategies
 Summary: Two effective strategies.
 ---

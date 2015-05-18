@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: essay
 title: Episcopal Church Fonts
 summary: Some font facts and musings.
+author: Adam Michael Wood
 ---
 
 I have long been a fan of [Garamond](http://en.wikipedia.org/wiki/Garamond). It's a very popular font based on a sixteenth century design, made especially popular by Adobe's inclusion of their version (Adobe Garamond Premier Pro) in their Creative Suite.

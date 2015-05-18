@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: short
 title: Do Not Stand and Stare in Wonder
 summary: Hymn for the Ascension
 ---

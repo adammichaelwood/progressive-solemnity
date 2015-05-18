@@ -4,7 +4,7 @@ email:       adam.michael.wood@gmail.com
 author:      Adam Michael Wood
 description: "Liturgy, music, and theology."
 baseurl:     ""
-url:         "http://adammichaelwood.github.io/progressive-solemnity/"
+url:         "http://localhost:4000/"
 
 # Google analytics
 google_analytics:

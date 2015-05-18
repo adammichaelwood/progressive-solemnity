@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: short
 title: Young People and Traditional Liturgy
 summary: Are you sure you have a traditional liturgy?
 ---

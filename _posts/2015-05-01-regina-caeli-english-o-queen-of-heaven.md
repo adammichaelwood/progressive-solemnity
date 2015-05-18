@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: short
 title: "Regina Caeli in English &mdash; O Queen of Heaven"
 summary: "An English adaptation of Regina Caeli, Simple Tone"
 ---
