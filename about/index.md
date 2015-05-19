@@ -1,7 +1,7 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: essay
+title: Progressive Solemnity
+subtitle: About
 ---
 
 This is the liturgy blog of Adam Michael Wood.
@@ -11,9 +11,9 @@ Adam also blogs in too many other places:
  - [Adam Michael Wood](http://adammichaelwood.github.io)
  - [Music for Sunday](http://musicforsunday.com)
  - [Otherwise Orthodox](http://otherwiseorthodox.org)
- - [Liberty.me](http://adam.liberty.me)
+ - [adam.liberty.me](http://adam.liberty.me)
  - [Chant Cafe](http://chantcafe.com) (Contributor)
- - [One Peter Five](http://onepeterfive.com) (Contributor)
+ - [One Peter Five](http://www.onepeterfive.com/author/adamwood/) (Contributor)
 
 You can also find Adam other places:
 

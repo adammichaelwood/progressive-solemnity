@@ -4,7 +4,7 @@ email:       adam.michael.wood@gmail.com
 author:      Adam Michael Wood
 description: "Liturgy, music, and theology."
 baseurl:     ""
-url:         "http://localhost:4000/"
+url:         "http://localhost:4000"
 
 # Google analytics
 google_analytics:
@@ -21,6 +21,7 @@ disqus_shortname:
 # Social icons
 show_social_icons: false
 github_username: adammichaelwood
+facebook: wood.adam.michael
 stackoverflow_id:
 twitter_username:
 google_plus_id: AdamWoodAMW
