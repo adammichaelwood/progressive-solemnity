@@ -4,7 +4,7 @@ email:       adam.michael.wood@gmail.com
 author:      Adam Michael Wood
 description: "Liturgy at the intersection of tradition and today."
 baseurl:     ""
-url:         "http://localhost:4000"
+url:         "http://progressivesolemnity.org"
 
 # Google analytics
 google_analytics: "UA-46189469-3"
