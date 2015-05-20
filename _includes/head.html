@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="{% if post.description %}{{ post.description }}{% else %}Essays and other writing by Adam Michael Wood{% endif %}">
+    <meta name="description" content="{% if post.summary %}{{ post.summary }}{% else %}{{ site.description }}{% endif %}">
     <meta name="author" content="Adam Michael Wood">
     <!-- <link rel="shortcut icon" href="../../assets/ico/favicon.png"> -->
 
@@ -28,6 +28,6 @@
     <![endif]-->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.feed }}" />
 
-  
+  {% include google-analytics.html %}
   </head>
     <body>
