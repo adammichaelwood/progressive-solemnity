@@ -312,6 +312,10 @@ h6,
   margin: 1em 0 0.5em;
 }
 
+.post-header h1, .post-header .h1 {
+margin-top: 0;
+}
+
 .social-icons {
     padding: 0.5em 0 0 0;
     font-size: 1.25rem;
@@ -446,7 +450,7 @@ h6,
 @media screen and (min-width: 64em) {
   .h1,
   h1 {
-    font-size: 4.498rem;
+    font-size: 3.18rem;
   }
 
   .h2,

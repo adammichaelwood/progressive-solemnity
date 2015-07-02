@@ -1,0 +1,28 @@
+<div class="main-article">
+	<div class="article-header">
+		<div class="article-title">
+			<h1 class="article-headline">
+				{{ page.title}}
+				{% if page.subtitle %} 
+					<br/><small>{{ page.subtitle}}</small>
+				{% endif %}
+			</h1>
+		</div>
+		{% if page.author %}
+			<div class="by-line ">
+				<span>by {{ page.author }}</span>
+			</div>
+		{% endif %}
+		{% if page.date %}
+			<div class="date-line">
+				<span>{{ page.date | date_to_long_string }}</span>
+			</div>
+		{% endif %}
+	</div> <!-- article header -->
+
+	{% if page.layout == 'home' %}
+		{% include post-index.html %}
+	{% else %}
+		{% include article-content.html %}
+	{% endif %}
+</div> <!-- /.main-article -->

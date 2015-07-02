@@ -2,12 +2,12 @@
 title:       Progressive Solemnity	
 email:       adam.michael.wood@gmail.com
 author:      Adam Michael Wood
-description: "Liturgy, music, and theology."
+description: "Liturgy at the intersection of tradition and today."
 baseurl:     ""
 url:         "http://progressivesolemnity.org"
 
 # Google analytics
-google_analytics:
+google_analytics: "UA-46189469-3"
 
 # Optional features
 animated:           false
@@ -21,6 +21,7 @@ disqus_shortname:
 # Social icons
 show_social_icons: false
 github_username: adammichaelwood
+facebook: wood.adam.michael
 stackoverflow_id:
 twitter_username:
 google_plus_id: AdamWoodAMW

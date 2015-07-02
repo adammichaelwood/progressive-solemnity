@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: essay
 title: Random Thoughts on Liturgical Style
 summary: Everything communicates something.
 

@@ -1,0 +1,18 @@
+<div class="sharing-buttons" id="sharing-above">
+	<div class="row shuffle">
+	
+	<div class="col-md-4">
+	 <a class="btn btn-info  btn-block twitter" href="https://twitter.com/intent/tweet?text={{ page.title | escape | replace:' ','%20' }}&amp;url={{ page.url | replace:'index.html','' | prepend: site.url }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> Share on Twitter</a>
+	</div>
+	
+	<div class="col-md-4">
+	 <a class="btn btn-danger  btn-block google-plus"  href="https://plus.google.com/share?url={{ page.url | replace:'index.html','' | prepend: site.url }}" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i> Share on Google+</a>
+	</div>
+	
+	<div class="col-md-4">
+	<a class="btn btn-primary btn-block facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | replace:'index.html','' | prepend: site.url }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i> Share on Facebook</a>
+	</div>
+
+	</div>
+
+</div><!-- /.share-this -->
