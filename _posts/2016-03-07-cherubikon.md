@@ -37,7 +37,7 @@ Adam Michael Wood
 ##### Singers
 
  - Br. Eckhart "Chip" Camden, OSB
- - Kevin Gore
+ - Br. Kevin Gore, AF
  - Br. Brendan Williams, OSB
  - Adam Michael Wood
 
