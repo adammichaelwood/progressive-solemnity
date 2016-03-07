@@ -14,13 +14,15 @@ title: Cherubic Hymn
 
 <audio src="/audio/cherubikon-ison.mp3" controls></audio>
 
-<br><hr><br>
+<hr>
 
 #### Files
 
  - [Cherubic Hymn &mdash; PNG Image File](/scores/cherubikon.png)
 
  - [Cherubic Hymn &mdash; PDF](/scores/cherubikon.pdf)
+
+ - [GABC Source File](https://github.com/adammichaelwood/cassian-liturgy/blob/master/gabc/cherubic-hymn.gabc)
 
 <hr>
 
