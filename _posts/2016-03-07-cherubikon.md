@@ -3,7 +3,7 @@ layout: short
 title: Cherubic Hymn
 ---
 
-![Do Not Stand and Stare in Wonder](/scores/cherubikon.png)
+![Cherubic Hymn by Adam Wood](/scores/cherubikon.png)
 
 #### Audio Recording with Homophonic Drone
 
